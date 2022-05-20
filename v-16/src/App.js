@@ -18,6 +18,7 @@ import SimpleTreeMap from "./Components/SimpleTreeMap";
 function App() {
   return (
     <div className="App">
+      <h1>React 16 with Fusion Chart 3.18</h1>
       <ColumnChartComponent />
       <SimpleBarChart />
       <SimpleLineChart />
