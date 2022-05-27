@@ -1,4 +1,4 @@
-# React Fusion Charts Demo v3.17
+# React Fusion Charts Demo v3.18
 
 # Tech Stack
 
